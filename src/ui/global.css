@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face {
+	font-family: 'SOME FONT NAME';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('./assets/SOME_FONT.woff2') format('woff2');
+} */
